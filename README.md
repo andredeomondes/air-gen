@@ -5,4 +5,4 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="blob:https://imgur.com/23835e99-e758-4a2a-8b16-cebfb3c1e772" alt="Exemplo imagem">
+<img src="https://imgur.com/23835e99-e758-4a2a-8b16-cebfb3c1e772" alt="Exemplo imagem">
